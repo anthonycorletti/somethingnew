@@ -1,0 +1,13 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "installCommand": "bun install",
+  "buildCommand": "bun run build",
+  "redirects": [
+    {
+      "source": "/call",
+      "destination": "https://cal.com/anthonycorletti",
+      "permanent": true
+    }
+  ]
+}
